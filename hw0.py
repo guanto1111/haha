@@ -6,3 +6,5 @@ fee = int(input())
 print(str(fee) + ',' +
     str(money_a*adult + money_s*student) + ',' +
     str(fee - money_a*adult - money_s*student))
+
+1111
